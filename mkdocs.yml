@@ -5,7 +5,7 @@ site_author: Henrique Wang
 
 theme:
   name: material
-  language: en-US
+  language: pt-BR
   palette:
     - scheme: default
       primary: indigo
