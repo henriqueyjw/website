@@ -23,17 +23,17 @@ Workshop de análise empírica utilizando dados do Direito, apresentado no Inspe
 
 [Como juntar duas ou mais bases de dados](../assets/workshops/empirical_legal/tratamento_dados_1.ipynb)
 
-[Como extrair informações de textos com métodos supervisionados e não supervisionados](../assets/workshops/empirical_legal/docs/assets/aula_base_dados3.ipynb)
+[Como extrair informações de textos com métodos supervisionados e não supervisionados](../assets/workshops/empirical_legal/aula_base_dados3.ipynb)
 
-[Web Scrapping](../assets/workshops/empirical_legal/docs/assets/aula_web_scrapping.ipynb)
+[Web Scrapping](../assets/workshops/empirical_legal/aula_web_scrapping.ipynb)
 
-[Como coletar informações não estruturadas](../assets/workshops/empirical_legal/docs/assets/Aula_RAG.ipynb)
+[Como coletar informações não estruturadas](../assets/workshops/empirical_legal/Aula_RAG.ipynb)
 
-[Classificação de textos](../assets/workshops/empirical_legal/docs/assets/aula_classificador.ipynb)
+[Classificação de textos](../assets/workshops/empirical_legal/aula_classificador.ipynb)
 
-[Clusterização de textos](../assets/workshops/empirical_legal/docs/assets/aula_clustering.ipynb)
+[Clusterização de textos](../assets/workshops/empirical_legal/aula_clustering.ipynb)
 
-[Regressões em Python](../assets/workshops/empirical_legal/docs/assets/aula_regressao.ipynb)
+[Regressões em Python](../assets/workshops/empirical_legal/aula_regressao.ipynb)
 
 ---
 
@@ -42,5 +42,3 @@ Workshop de análise empírica utilizando dados do Direito, apresentado no Inspe
 Todos os materiais estão sob licença
 [Creative Commons BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.pt).
 Você pode reutilizar e adaptar com atribuição.
-
-Para convites de workshop, entre em [contato](contato.md).

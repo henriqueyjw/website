@@ -5,7 +5,7 @@ Researcher in **behavior economics**, **applied microeconomics** and **natural l
 ## Recent Activities
 
 - 📄 Papers — [go to publications](publicacoes.md)
-- 🎓 Conferences Presentations — [go to presentations](projetos/index.md)
+- 🎓 Conferences Presentations — [go to presentations](projetos/conferences.md)
 - 🔬 Workshop Materials — [go to slides](projetos/workshops.md)
 
 ## Contacts
