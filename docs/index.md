@@ -1,17 +1,13 @@
-# Welcome to MkDocs
+# Welcome to my research website.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Researcher in **behavior economics**, **applied microeconomics** and **natural language processing**, with a focus on analyzing the impact of public policies with an economic perspective. I've been working with text datasets of lawcases, public finance, electoral and government database, observing the behavior according to specific topics.
 
-## Commands
+## Recent Activities
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+- 📄 Papers — [go to publications](publicacoes.md)
+- 🎓 Conferences Presentations — [go to presentations](projetos/index.md)
+- 🔬 Workshop Materials — [go to slides](projetos/workshops.md)
 
-## Project layout
+## Contacts
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+📧 henriqueyjw1@insper.edu.br | 🐙 [GitHub](https://github.com/henriqueyjw)
