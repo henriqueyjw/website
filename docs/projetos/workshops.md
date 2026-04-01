@@ -27,7 +27,7 @@ Workshop de análise empírica utilizando dados do Direito, apresentado no Inspe
 
 [Web Scrapping](../assets/workshops/empirical_legal/aula_web_scrapping.ipynb)
 
-[Como coletar informações não estruturadas](../assets/workshops/empirical_legal/Aula_RAG.ipynb)
+
 
 [Classificação de textos](../assets/workshops/empirical_legal/aula_classificador.ipynb)
 
